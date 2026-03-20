@@ -22,7 +22,7 @@ By combining real-time data analysis, smart execution logic, and live trade stre
 - 📊 Real-time market monitoring  
 - 🔐 Secure wallet & API integration  
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : F9z4Cp1yz7vpWXunypu4DsqZyyks7BGj3ANsUFxnpump
 ---
 
 ## 🌐 Links
